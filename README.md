@@ -1,6 +1,6 @@
 # hi, i'm Keenisha :)
 
-I'm a second-year CS/IT student who likes making websites look good and work well.
+I'm a second-year IT student who likes making websites look good and work well.
 Most of what I build starts with a small annoyance I wanted to fix.
 
 ## what i'm up to
