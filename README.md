@@ -12,11 +12,13 @@ Most of what I build starts with a small annoyance I wanted to fix.
 ## stuff i've made
 
 ~ [Rang Rasta](https://github.com/ineek808/rang-rasta) - a full-stack guide for tourists in Jaipur: places, festivals, a tour planner, and an SOS button for emergencies\
+~ [StampBook](https://github.com/ineek808/stamp-book) - makes passport-style travel stamps you can collect in a stamp book\
 ~ [To-Do Python](https://github.com/ineek808/to-do-python) - a command-line to-do list that remembers your deadlines
 
 ## right now
 
-Tidying up Rang Rasta and working on my portfolio site.
+Tidying up Rang Rasta and working on my portfolio site. Also building a palette postcard
+maker that pulls the main colours out of a photo.
 
 ## say hi!
 
