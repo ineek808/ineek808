@@ -15,6 +15,6 @@ Most of what I build starts with a small annoyance I wanted to fix.
 ## right now
 Tidying up Rang Rasta and working on my portfolio site.
 
-## say hi
+## say hi!
 LinkedIn: www.linkedin.com/in/keenishajoshi808 
 Email: keenishajoshi27@gmail.com
