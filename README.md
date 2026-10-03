@@ -1,16 +1,20 @@
-## Hi there 👋
+# hi, i'm Keenisha :)
 
-<!--
-**ineek808/ineek808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year CS/IT student who likes making websites look good and work well.
+Most of what I build starts with a small annoyance I wanted to fix.
 
-Here are some ideas to get you started:
+## what i'm up to
+~ building front-end projects (HTML, CSS, JavaScript)
+~ writing small Python tools
+~ learning React, Tailwind CSS and Figma, slowly but steadily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stuff i've made
+- [Rang Rasta](https://github.com/ineek808/rang-rasta) - a guide for tourists in Jaipur: places, festivals, and an SOS button for emergencies
+- [To-Do Python](https://github.com/ineek808/to-do-python) - a command-line to-do list that remembers your deadlines
+
+## right now
+Tidying up Rang Rasta and working on my portfolio site.
+
+## say hi
+LinkedIn: www.linkedin.com/in/keenishajoshi808 
+Email: keenishajoshi27@gmail.com
